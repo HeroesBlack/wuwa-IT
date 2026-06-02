@@ -20,3 +20,5 @@ Traduzione italiana per Wuthering Waves.
 
 - La traduzione ufficiale è distribuita tramite questo repository.
 - Le impostazioni del launcher e lo stato della traduzione vengono salvati automaticamente.
+- Per la traduzione italiana usa **sempre** questo launcher.
+- Per aggiornare il gioco usa il launcher ufficiale di Wuthering Waves.
