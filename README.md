@@ -1,6 +1,6 @@
 # WuWa IT
 
-Traduzione italiana per Wuthering Waves.
+Traduzione italiana per Wuthering Waves. (non aggiornato)
 
 ## Come usare
 
